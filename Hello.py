@@ -9,5 +9,11 @@ print """\n\tYou can also write out all the writing in these \"\"\" marks.
 print
 print
 
-\Yeah I am not sure yet if this is how it should be working.
-\There are quite a number of options for syncing repositories and it took me a while to figure out how to pull yours and not just create my own.
+"Yeah I am not sure yet if this is how it should be working"
+"There are quite a number of options for syncing repositories and it took me a while to figure out how to pull yours and not just create my own"
+
+print "Squeedge: Dude, I have got no idea where the \s are supposed to come into play, but I got the syntax errors to go away."
+
+print
+print
+
